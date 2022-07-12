@@ -30,13 +30,13 @@ Repositório criado para o Desafio de Projeto.
  - Partindo do presuposto de que já está configurado o link remoto do repositório, realizar o comando no terminal -> git push
 
 ## Comandos 
-git init -> utilizado para iniciar um repositório local;
-git add . -> utilizado para adcicionar todas as alterações no repositório antes de dar commit; 
-git commit -m -> utilizado para salvar as alterações que foram adicionadas anteriormente;
-git push -> utilizado para enviar as alterações do repositório local para o repositório remoto;
-git pull -> utilizado para atualizar o repositório local com o repositório remoto;
-git status -> utilizado para mostrar o status da branch e/ou repositório;
-git clone -> utilizado para baixar o repositório remoto para o repositório local;
+ - git init -> utilizado para iniciar um repositório local;
+ - git add . -> utilizado para adcicionar todas as alterações no repositório antes de dar commit; 
+ - git commit -m -> utilizado para salvar as alterações que foram adicionadas anteriormente;
+ - git push -> utilizado para enviar as alterações do repositório local para o repositório remoto;
+ - git pull -> utilizado para atualizar o repositório local com o repositório remoto;
+ - git status -> utilizado para mostrar o status da branch e/ou repositório;
+ - git clone -> utilizado para baixar o repositório remoto para o repositório local;
 
 
 ### Informações adicionais
